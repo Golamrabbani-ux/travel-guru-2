@@ -1,0 +1,25 @@
+.home-sec{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0.1, 0.1, 0.1, 0.1), rgba(0.1,0.1,0.1, 0.5)),url('../../images/Image/homebg-1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+.main-title{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    font-size: 55px;
+    font-weight: 700;
+}
+.home-sec p{
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+.active{
+    border: 5px solid red;
+}

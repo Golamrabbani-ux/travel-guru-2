@@ -1,0 +1,25 @@
+.destnation-sec{
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #555555;
+}
+.destnation-sec .content-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: black;
+}
+
+
+/* SinglePlace */
+.single-place{
+    background: none;
+    border: none;
+    color: white;
+}
+.single-place .card-title{
+    font-size: 16px;
+    font-weight: 500;
+}

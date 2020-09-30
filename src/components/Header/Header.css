@@ -1,0 +1,39 @@
+
+nav .header-logo-white{
+    height: 50px;
+    filter: invert(100%);
+    filter: invert(100%);
+}
+nav .header-logo-dark{
+    height: 50px;
+}
+.nav-item{
+    padding: 0px 10px;
+}
+.nav-link{
+    font-weight: 600;
+    font-size: 18px;
+}
+.blackColor{
+    background-color: white;
+    color: #555555;
+}
+.button{
+    background-color: #F9A51A;
+    color: black;
+    border: none;
+    outline: none;
+    margin-top: 4px;
+    padding: 4px 25px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    transition: 0.5s all ease;
+}
+.button:focus{
+    border: none;
+    outline: none;
+}
+.button:hover{
+    background-color: #da8f13;
+}

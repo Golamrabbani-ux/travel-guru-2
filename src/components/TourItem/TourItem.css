@@ -1,0 +1,13 @@
+.img-fluid1{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    cursor: pointer;
+    position: relative;
+}
+.title{
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    font-size: 30px;
+}
